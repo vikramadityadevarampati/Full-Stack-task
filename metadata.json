@@ -1,0 +1,5 @@
+{
+  "name": "TinyLink",
+  "description": "A modern URL shortener with analytics, link management, and instant redirection.",
+  "requestFramePermissions": []
+}
